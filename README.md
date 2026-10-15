@@ -56,7 +56,7 @@ Some research projects use restricted datasets or organization-owned code and th
 
 ## 💼 Professional Experience
 
-### Bank of America — Software Engineer
+### Bank of America - Software Engineer
 
 Worked on enterprise data systems supporting the Global Credit Warehouse, including SQL development, production support, data discrepancy investigation, and job scheduling and automation.
 
@@ -68,9 +68,9 @@ Worked across data analysis, reporting automation, CRM workflows, and business i
 
 ## 🎓 Research & University Experience
 
-- **Vision Systems Intelligence Lab, University of Arizona** — Research Volunteer, working with supervised and semi-supervised learning and model adaptation for image, audio, and video understanding.
-- **Graduate Teaching Assistant, University of Arizona** — Supported machine learning and neural network coursework.
-- **Graduate & Professional Student Council, University of Arizona** — Served as Secretary, contributing to graduate student governance and university community initiatives.
+- **Vision Systems Intelligence Lab, University of Arizona**: Research Volunteer, working with supervised and semi-supervised learning and model adaptation for image, audio, and video understanding.
+- **Graduate Teaching Assistant, University of Arizona**: Supported machine learning and neural network coursework.
+- **Graduate & Professional Student Council, University of Arizona**: Served as Secretary, contributing to graduate student governance and university community initiatives.
 
 ## 🛠️ Technical Toolkit
 
