@@ -87,3 +87,4 @@ Outside of AI and software, you'll usually find me exploring nature, discovering
 
 - [GitHub](https://github.com/rishabh-bhattad)
 - [Explore my repositories](https://github.com/rishabh-bhattad?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/rishabh-bhattad)
