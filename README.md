@@ -2,7 +2,7 @@
 
 **Applied AI Engineer | Machine Learning Researcher | Software & Data Engineer**
 
-I'm pursuing MS in Information Science (Machine Learning) at the University of Arizona, building on a background in enterprise software engineering and data systems. My work spans AI engineering, retrieval-augmented generation (RAG), agentic systems, and applied ML research across text, image, audio, and video.
+I'm pursuing an MS in Information Science (Machine Learning) at the University of Arizona, building on a background in enterprise software engineering and data systems. My work spans AI engineering, retrieval-augmented generation (RAG), agentic systems, and applied ML research across text, image, audio, and video.
 
 I'm particularly interested in building AI systems that go beyond demos: systems that are grounded, reliable, and designed for real-world use.
 
